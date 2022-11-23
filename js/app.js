@@ -1,3 +1,3 @@
 const numberOfUsers = 5;
-result = Math.Floor(numberOfUsers / 2);
+result = Math.floor(numberOfUsers / 2);
 console.log(result);
